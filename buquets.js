@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function loadBuquets(){
-    fetch('/buquets.json')
+    fetch('./buquets.json')
     .then (response => response.json())
     .then(data =>{
         console.log('Данные загружены', data);
@@ -224,4 +224,5 @@ function clearCart() {
     localStorage.removeItem('cart');
     updateCartCounter();
     console.log('Корзина очищена');
+
 }
