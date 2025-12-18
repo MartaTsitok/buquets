@@ -19,6 +19,7 @@ h2 { font: var(--h2); }
 
 .header-wrapper{
     max-width: 1440px;
+    width:100%;
     display: flex;
     align-items: center; 
     justify-content: space-between; 
@@ -187,3 +188,4 @@ h2 { font: var(--h2); }
 .search-in-basemant {
     margin-top: 10px;
 }
+
