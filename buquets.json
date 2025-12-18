@@ -1,0 +1,56 @@
+{
+  "Orange_buquet": {
+    "name": "Ораньжевый букет",
+    "image" : "/img/IMG_9829.PNG",
+    "sizes": [
+      {"size": "S", "price": 30},
+      {"size": "M", "price": 60},
+      {"size": "L", "price": 90}
+    ]
+  },
+  "White_buquet": {
+    "name": "Белый букет",
+    "image" : "/img/IMG_9828.PNG",
+    "sizes": [
+      {"size": "S", "price": 30},
+      {"size": "M", "price": 60},
+      {"size": "L", "price": 90}
+    ]
+  },
+  "Sharp_buquet": {
+    "name": "Острый букет",
+    "image" : "/img/IMG_9827.PNG",
+    "sizes": [
+      {"size": "S", "price": 30},
+      {"size": "M", "price": 60},
+      {"size": "L", "price": 90}
+    ]
+  },
+  "School_buquet": {
+    "name": "Школьный букет",
+    "image" : "/img/IMG_9826.PNG",
+    "sizes": [
+      {"size": "S", "price": 30},
+      {"size": "M", "price": 60},
+      {"size": "L", "price": 90}
+    ]
+  },
+  "Big_buquet": {
+    "name": "Белый пестрый",
+    "image" : "/img/bukety.PNG",
+    "sizes": [
+      {"size": "S", "price": 30},
+      {"size": "M", "price": 60},
+      {"size": "L", "price": 90}
+    ]
+  },
+  "Kosmos": {
+    "name": "Нежный букет",
+    "image" : "/img/IMG_9825.PNG",
+    "sizes": [
+      {"size": "S", "price": 30},
+      {"size": "M", "price": 60},
+      {"size": "L", "price": 90}
+    ]
+  }
+}
